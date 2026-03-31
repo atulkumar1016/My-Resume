@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Atul 👋</h1>
+<h1 align="center">Hey, I'm Atul Kumar 👋</h1>
 
 <p align="center">
 B.Tech CSE (Data Science) | Exploring Tech & Building Skills 🚀
