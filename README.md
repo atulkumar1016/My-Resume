@@ -1,45 +1,35 @@
 <h1 align="center">Hey, I'm Atul 👋</h1>
 
 <p align="center">
-Building skills, exploring tech, and growing every day 🚀
+B.Tech CSE (Data Science) | Exploring Tech & Building Skills 🚀
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science student specializing in Data Science,  
-with a strong interest in solving problems and understanding how systems work.
-
-I enjoy learning by building and constantly improving my approach to coding and development.
+I am a Computer Science student with a growing interest in software development and problem solving.  
+I focus on learning through practice and continuously improving my technical skills.
 
 ---
 
-## 📌 What You'll Find Here
+## 📄 Resume Collection
 
-This repository contains my resume for internship opportunities.
+This repository contains my resumes tailored for different purposes:
 
-👉 **Download here:** Atul_Resume.pdf
-
----
-
-## 💡 Beyond Resume
-
-- I focus on improving my problem-solving mindset daily  
-- I believe in consistency over shortcuts  
-- Always curious to learn new technologies and concepts  
+- 📄 **General Resume** → AtulGeneral.pdf  
+- 💻 **Technical Resume** → AtulTech.pdf  
+- 🎯 **Specialized Resume** → AtulSpec.pdf  
 
 ---
 
-## 🎯 Current Focus
+## 💡 Note
 
-- Strengthening DSA  
-- Improving coding efficiency  
-- Exploring real-world project development  
+Each resume is designed for a specific role or context to better represent my profile.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Me
 
 - GitHub: https://github.com/YOUR_USERNAME  
 - Email: your-email@example.com  
